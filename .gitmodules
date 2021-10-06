@@ -1,0 +1,3 @@
+[submodule "ressources/storybook-photoshop-jsx"]
+	path = ressources/storybook-photoshop-jsx
+	url = git@github.com:mitmedialab/storybook-photoshop-jsx.git

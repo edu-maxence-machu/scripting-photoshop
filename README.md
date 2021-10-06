@@ -3,7 +3,7 @@
 ## Déroulé de la séance
 1. [Introduction](/readme.md)
 2. [Découverte des actions](/readme.md)
-2. [Découverte automatisation avec fichier CSV](/automatisation-csv.md)
+3. [Découverte automatisation avec fichier CSV](/automatisation-csv.md)
 4. [Exercices (collectif)](/exercices-collectif.md) 
 5. [Exercices (individuel)](/exercices-individuel.md)
 
@@ -34,6 +34,9 @@ Vous pouvez enregistrer, modifier, personnaliser et traiter les scripts par lots
 - Lorsque vous enregistrez des actions qui nécessitent de compléter des boîtes de dialogue et des panneaux, l’action adopte les paramètres sélectionnés au moment de l’enregistrement. Si vous modifiez un paramètre de la boîte de dialogue ou du panneau pendant l’enregistrement d’une action, c’est le paramètre modifié qui sera enregistré.
 
 [Adobe.com](https://helpx.adobe.com/fr/photoshop/using/creating-actions.html)
+
+### Scripts à télécharger 
+https://www.blogduwebdesign.com/35-effets-incroyables-scripts-actions-photoshop/
 
 ### Démonstration du panneau Action sur Photoshop
 
