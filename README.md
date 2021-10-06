@@ -29,7 +29,7 @@ Vous pouvez enregistrer, modifier, personnaliser et traiter les scripts par lots
 
 - Vous pouvez enregistrer les opérations exécutées avec les outils Rectangle de sélection, Déplacement, Polygone, Lasso, Baguette magique, Recadrage, Tranche, Gomme magique, Dégradé, Pot de peinture, Texte, Forme personnalisée, Annotations, Pipette et Echantillonnage de couleur, ainsi que les opérations exécutées dans les panneaux Historique, Nuancier, Couleur, Tracés, Couches, Calques, Styles et Actions.
 - 
-Les résultats dépendent des variables de configuration du fichier et du programme, telles que le calque actif ou la couleur de premier plan. Par exemple, un flou gaussien de 3 pixels n’aura pas le même effet sur un fichier 72 ppp que sur un fichier 144 ppp. De même, la balance des couleurs n’aura aucun effet sur un fichier en niveaux de gris.
+- Les résultats dépendent des variables de configuration du fichier et du programme, telles que le calque actif ou la couleur de premier plan. Par exemple, un flou gaussien de 3 pixels n’aura pas le même effet sur un fichier 72 ppp que sur un fichier 144 ppp. De même, la balance des couleurs n’aura aucun effet sur un fichier en niveaux de gris.
 
 - Lorsque vous enregistrez des actions qui nécessitent de compléter des boîtes de dialogue et des panneaux, l’action adopte les paramètres sélectionnés au moment de l’enregistrement. Si vous modifiez un paramètre de la boîte de dialogue ou du panneau pendant l’enregistrement d’une action, c’est le paramètre modifié qui sera enregistré.
 
