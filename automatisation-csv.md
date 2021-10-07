@@ -10,7 +10,7 @@ Liens utiles:
 
 ## Démonstration 
 
-## Exercice collectif
+## Exercice individuel
 
 Votre objectif est de générer une dizaine de prévisualisations de post "Instagram" grâce aux automatisation de la suite Adobe.
 
