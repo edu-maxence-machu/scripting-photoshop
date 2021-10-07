@@ -4,8 +4,7 @@
 1. [Introduction](/readme.md)
 2. [Découverte des actions](/readme.md)
 3. [Découverte automatisation avec fichier CSV](/automatisation-csv.md)
-4. [Exercices (collectif)](/exercices-collectif.md) 
-5. [Exercices (individuel)](/exercices-individuel.md)
+4. [Exercices (individuel)](/automatisation-csv.md) 
 
 
 ## Introduction
